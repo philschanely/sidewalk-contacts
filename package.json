@@ -1,6 +1,6 @@
 {
   "name": "sidewalk-contacts",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Demo app for testing deployment to heroku",
   "author": "Phil Schanely <philschanely@gmail.com>",
   "license": "MIT",
