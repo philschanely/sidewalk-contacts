@@ -1,0 +1,20 @@
+{
+  "name": "Sidewalk Contacts",
+  "description": "A sandbox app for testing working with Heroku",
+  "keywords": [
+    "create-react-app"
+  ],
+  "website": "https://sidewalk-contacts.herokuapp.com/",
+  "repository": "https://github.com/philschanely/sidewalk-contacts",
+  "env": {
+    "TEST_TOKEN": {
+      "description": "Testing a token.",
+      "value": "test"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/mars/create-react-app-buildpack.git"
+    }
+  ]
+}
