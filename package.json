@@ -2,7 +2,6 @@
   "name": "sidewalk-contacts",
   "version": "0.1.1",
   "description": "Demo app for testing deployment to heroku",
-  "main": "src/index.html",
   "author": "Phil Schanely <philschanely@gmail.com>",
   "license": "MIT",
   "dependencies": {
